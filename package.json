@@ -1,0 +1,14 @@
+{
+	"name":"@askass/tiny-button",
+	"version":"1.0.0",
+	"dependencies":{"styled-components":"^5.3.5"},
+	"description": "Tiny style for tiny button",
+	"license": "MIT",
+	"repository": "askass/tiny-button",
+	"main": "index.js",
+	"keywords": [
+    "tiny-button",
+    "npm",
+    "package"
+  ]
+}
