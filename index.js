@@ -14,7 +14,7 @@ export const TinyButton = styled.button`
   margin-right: 10px;
   margin-left: 10px;
   &:hover {
-    opacity: 0.8;
+    opacity:  0.8;
   }
   &:active {
     box-shadow: 0 0px rgba(0, 0, 0, 0.2);
